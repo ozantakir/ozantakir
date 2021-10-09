@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I graduated from Middle East Technical University - Mathematics
+- I am currently learning mobile app development in Android with Kotlin.
+- Also I have an interest in the data science area
+- How to reach me: ozantakir@gmail.com
+
 <!--
 **ozantakir/ozantakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

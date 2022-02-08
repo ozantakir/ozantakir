@@ -2,6 +2,7 @@
 
 - I graduated from Middle East Technical University - Mathematics
 - I am currently learning mobile app development with Flutter and Kotlin.
+- I also have an interest in the Data Science area and trying to learn that too with Python.
 - How to reach me: ozantakir@gmail.com
 
 <!--

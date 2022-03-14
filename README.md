@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I graduated from Middle East Technical University - Mathematics
-- Master student at Ege University - IT
+- Student at Ege University - Master in IT
 - Mobile app development with Flutter and Kotlin.
 - How to reach me: ozantakir@gmail.com
 

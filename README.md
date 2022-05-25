@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- Currently working as a developer with Vue.js.
 - I graduated from Middle East Technical University - Mathematics
 - Student at Ege University - Master in IT
 - Mobile app development with Flutter and Kotlin.

@@ -1,8 +1,7 @@
 ### Hi there 👋
-- Currently working as a developer with Vue.js.
+- Currently working as a developer with Vue.js and React Native
 - I graduated from Middle East Technical University - Mathematics
 - Student at Ege University - Master in IT
-- Mobile app development with Flutter and Kotlin.
 - How to reach me: ozantakir@gmail.com
 
 <!--

@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Currently working as a Android Developer with Kotlin
+- Currently working as an Android Developer with Kotlin
 - I graduated from Middle East Technical University - Mathematics
 - How to reach me: ozantakir@gmail.com
 
